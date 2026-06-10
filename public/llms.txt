@@ -1,0 +1,101 @@
+# Next Look Brands — Generative Engine Optimization Map
+
+> צור לי אתר אונליין אשלח לך עכשיו תמונות לוגו של האתר וכו
+
+---
+
+## Pages
+
+### בית
+https://next-look-brands-7da3c944.zappy5.app
+ברוכה הבאה לעולם של אופנה בת קיימא לנשים שלא מתפשרת על סטייל. גלי בגדים טרנדיים אונליין ישראל שמחכים רק לך. כנסי עכשיו והתחילי להתאהב מחדש במלתחה שלך!
+
+### אודות
+https://next-look-brands-7da3c944.zappy5.app/about
+הכירי את החזון שמאחורי Next Look Brands: להביא אלייך אופנה בת קיימא לנשים שמשלבת יופי, איכות ואחריות. גלי מי אנחנו ולמה כל פריט הוא הצהרה. הצטרפי למהפכת הסטייל עכשיו!
+
+### גלריה
+https://next-look-brands-7da3c944.zappy5.app/gallery
+צללי לגלריית האופנה בת הקיימא שלנו ומצאי השראה אינסופית. דפדפי בין בגדים טרנדיים אונליין ישראל שיהפכו כל יום לתצוגת אופנה. לכי על הלוק המושלם — כנסי עכשיו!
+
+### צור קשר
+https://next-look-brands-7da3c944.zappy5.app/contact
+יש לך שאלה על הפריט הבא שלך? רוצה לשמוע עוד על אופנה בת קיימא לנשים? צרי קשר עכשיו עם Next Look Brands וקבלי מענה אישי ומהיר. אנחנו כאן כדי להלביש את החלומות שלך — כתבי לנו עוד היום!
+
+### Products
+https://next-look-brands-7da3c944.zappy5.app/products
+המוצרים שלנו - Next Look Brands
+
+### Cart
+https://next-look-brands-7da3c944.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://next-look-brands-7da3c944.zappy5.app/checkout
+תשלום
+
+### Login
+https://next-look-brands-7da3c944.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://next-look-brands-7da3c944.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://next-look-brands-7da3c944.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://next-look-brands-7da3c944.zappy5.app/product/:slug
+פרטי המוצר - Next Look Brands
+
+### Category
+https://next-look-brands-7da3c944.zappy5.app/category/:slug
+מוצרים - Next Look Brands
+
+## Legal & Policy
+
+### Privacy Policy
+https://next-look-brands-7da3c944.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://next-look-brands-7da3c944.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://next-look-brands-7da3c944.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Next Look Brands
+צור לי אתר אונליין אשלח לך עכשיו תמונות לוגו של האתר וכו
+
+## Target Audience
+- חובבי אופנה עכשווית
+- קונים מקוונים תכופים
+- מחפשי אופנה בת קיימא
+- בגדים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://next-look-brands-7da3c944.zappy5.app/sitemap.xml
+- Robots: https://next-look-brands-7da3c944.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://next-look-brands-7da3c944.zappy5.app/llms-full.txt
+- Products (JSON): https://next-look-brands-7da3c944.zappy5.app/products.json
+- Products (Google Merchant RSS): https://next-look-brands-7da3c944.zappy5.app/product-feed.xml
