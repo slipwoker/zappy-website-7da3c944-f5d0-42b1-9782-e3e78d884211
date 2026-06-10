@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "7da3c944-f5d0-42b1-9782-e3e78d884211";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "7da3c944-f5d0-42b1-9782-e3e78d884211";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -859,26 +859,26 @@
   </div>
 </section>
 
-<section class="contact-contact-details-section" data-layout-spec="צור קשר-contact-details">
+<section class="contact-contact-details-section" data-layout-spec="צור קשר-contact-details" id="contact-contact-details-section">
   <div class="contact-details-container">
     <header class="contact-details-header">
       <h2 class="contact-details-title">דברו איתנו</h2>
       <p class="contact-details-subtitle">אנחנו כאן כדי להקשיב, לייעץ ולתת לכם את המענה המהיר והמקצועי ביותר. הצוות שלנו זמין עבורכם בכל ערוץ שנוח לכם.</p>
     </header>
 
-    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="display:none">
+    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="transition: background 0.3s, backdrop-filter 0.3s, -webkit-backdrop-filter 0.3s; margin-top: 0px; top: 102px !important; display: none !important;">
       <div class="catalog-menu-container">
-        <a href="/gallery" class="catalog-menu-item catalog-menu-all">מוצרים</a>
-        <div class="catalog-menu-categories" id="zappy-category-links">
+        <p class="zappy-editable"><a href="/gallery" class="catalog-menu-item catalog-menu-all">מוצרים</a>
+        </p><div class="catalog-menu-categories" id="zappy-category-links" dir="rtl" style="direction: rtl !important;">
           <!-- Categories will be loaded dynamically -->
         </div>
       </div>
     </nav>
   
 
-    <div class="contact-details-grid">
+    <div class="contact-details-grid" style="display: grid; --zappy-grid-cols: repeat(3, minmax(0, 1fr)); grid-template-columns: repeat(3, minmax(0, 1fr));" data-zappy-explicit-columns="true">
       <!-- Card 1: Email -->
-      <article class="contact-details-card card-glassmorphism">
+      <article class="contact-details-card card-glassmorphism" data-grid-item-index="0">
         <div class="contact-card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="contact-card-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M4 4H20C21.1 4 22 4.9 22 6V18C22 19.1 21.1 20 20 20H4C2.9 20 2 19.1 2 18V6C2 4.9 2.9 4 4 4Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -886,24 +886,24 @@
           </svg>
         </div>
         <h3 class="contact-card-title">דוא"ל</h3>
-        <p class="contact-card-text">שלחו לנו הודעה בכל נושא ואנו נחזור אליכם תוך 24 שעות. אנחנו זמינים גם לשאלות קטנות וגם לפרויקטים גדולים.</p>
+        <p class="contact-card-text" style="color: rgb(255, 255, 255) !important;">שלחו לנו הודעה בכל נושא ואנו נחזור אליכם תוך 24 שעות. אנחנו זמינים גם לשאלות קטנות וגם לפרויקטים גדולים.</p>
         
       </article>
 
       <!-- Card 2: Phone -->
-      <article class="contact-details-card card-glassmorphism" data-zappy-contact-field="phone">
+      <article class="contact-details-card card-glassmorphism" data-zappy-contact-field="phone" data-grid-item-index="1">
         <div class="contact-card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="contact-card-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M22 16.92V19.92C22.0011 20.1985 21.9441 20.4741 21.8325 20.7293C21.7209 20.9845 21.5571 21.2136 21.3521 21.4018C21.1471 21.5901 20.9056 21.7335 20.6427 21.8227C20.3798 21.9119 20.1014 21.945 19.825 21.92C16.5643 21.5656 13.4282 20.4343 10.6581 18.62C8.1031 16.9726 5.94796 14.7994 4.34001 12.23C2.5195 9.45674 1.38823 6.31191 1.04001 3.05C1.01501 2.7742 1.04795 2.4966 1.13687 2.23439C1.2258 1.97219 1.36884 1.7313 1.55668 1.52671C1.74453 1.32212 1.97306 1.15853 2.22767 1.04683C2.48229 0.935131 2.7574 0.877727 3.03552 0.878H6.04552C6.54324 0.872411 7.02349 1.05625 7.39199 1.39127C7.76048 1.7263 7.98935 2.18711 8.03202 2.683C8.11205 3.6275 8.30209 4.55918 8.59802 5.456C8.67168 5.74884 8.66154 6.057 8.56879 6.34423C8.47604 6.63146 8.30469 6.88556 8.07502 7.077L6.78802 8.364C8.09824 10.6266 9.95208 12.4733 12.22 13.777L13.507 12.49C13.6986 12.2603 13.9529 12.089 14.2403 11.9963C14.5277 11.9037 14.8359 11.8937 15.128 11.9676C16.0249 12.2635 16.9565 12.4535 17.901 12.5335C18.4014 12.5768 18.8661 12.8095 19.2024 13.1832C19.5387 13.5569 19.7208 14.0429 19.71 14.5435V16.92Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </div>
         <h3 class="contact-card-title">טלפון</h3>
-        <p class="contact-card-text">מעדיפים לדבר? חייגו אלינו. אנחנו זמינים בימים א'-ה' בין השעות 09:00-18:00. נשמח לשמוע אתכם.</p>
-        <a href="tel:0526858393" class="contact-card-link">0526858393</a>
-      </article>
+        <p class="contact-card-text" style="color: rgb(255, 255, 255) !important;">מעדיפים לדבר? חייגו אלינו. אנחנו זמינים בימים א'-ה' בין השעות 11:00-21:00. נשמח לשמוע אתכם.</p>
+        <p><a href="tel:052-685-8393" class="contact-card-link btn btn-ghost" style="color: rgb(255, 255, 255) !important; outline: currentcolor; border-color: transparent !important; background-color: transparent !important; background-image: none !important;" data-native-element="true" data-element-id="btn-1781131346662-czh5vuuu3" data-element-type="button">0526858393</a>
+      </p></article>
 
       <!-- Card 3: Social / Community -->
-      <article class="contact-details-card card-glassmorphism">
+      <article class="contact-details-card card-glassmorphism" data-grid-item-index="2">
         <div class="contact-card-icon-wrapper">
           <svg data-element-type="icon" data-icon-type="svg" class="contact-card-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M18 8C19.6569 8 21 6.65685 21 5C21 3.34315 19.6569 2 18 2C16.3431 2 15 3.34315 15 5C15 6.65685 16.3431 8 18 8Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -914,7 +914,7 @@
           </svg>
         </div>
         <h3 class="contact-card-title">קהילה ורשתות חברתיות</h3>
-        <p class="contact-card-text">הצטרפו לקהילה שלנו וקבלו השראה יומית, עדכונים על קולקציות חדשות, והצצה אל מאחורי הקלעים של Next Look Brands.</p>
+        <p class="contact-card-text" style="color: rgb(255, 255, 255) !important;">הצטרפו לקהילה שלנו וקבלו השראה יומית, עדכונים על קולקציות חדשות, והצצה אל מאחורי הקלעים של Next Look Brands.</p>
         <div class="contact-social-links">
           
           
