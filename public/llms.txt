@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://next-look-brands-7da3c944.zappy5.app
+https://example.com
 ברוכה הבאה לעולם של אופנה בת קיימא לנשים שלא מתפשרת על סטייל. גלי בגדים טרנדיים אונליין ישראל שמחכים רק לך. כנסי עכשיו והתחילי להתאהב מחדש במלתחה שלך!
 
 ### אודות
-https://next-look-brands-7da3c944.zappy5.app/about
+https://example.com/about
 הכירי את החזון שמאחורי Next Look Brands: להביא אלייך אופנה בת קיימא לנשים שמשלבת יופי, איכות ואחריות. גלי מי אנחנו ולמה כל פריט הוא הצהרה. הצטרפי למהפכת הסטייל עכשיו!
 
 ### גלריה
-https://next-look-brands-7da3c944.zappy5.app/gallery
+https://example.com/gallery
 צללי לגלריית האופנה בת הקיימא שלנו ומצאי השראה אינסופית. דפדפי בין בגדים טרנדיים אונליין ישראל שיהפכו כל יום לתצוגת אופנה. לכי על הלוק המושלם — כנסי עכשיו!
 
 ### צור קשר
-https://next-look-brands-7da3c944.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על הפריט הבא שלך? רוצה לשמוע עוד על אופנה בת קיימא לנשים? צרי קשר עכשיו עם Next Look Brands וקבלי מענה אישי ומהיר. אנחנו כאן כדי להלביש את החלומות שלך — כתבי לנו עוד היום!
 
 ### Products
-https://next-look-brands-7da3c944.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Next Look Brands
 
 ### Cart
-https://next-look-brands-7da3c944.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://next-look-brands-7da3c944.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://next-look-brands-7da3c944.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://next-look-brands-7da3c944.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://next-look-brands-7da3c944.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://next-look-brands-7da3c944.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Next Look Brands
 
 ### Category
-https://next-look-brands-7da3c944.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Next Look Brands
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://next-look-brands-7da3c944.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://next-look-brands-7da3c944.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://next-look-brands-7da3c944.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://next-look-brands-7da3c944.zappy5.app/sitemap.xml
-- Robots: https://next-look-brands-7da3c944.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://next-look-brands-7da3c944.zappy5.app/llms-full.txt
-- Products (JSON): https://next-look-brands-7da3c944.zappy5.app/products.json
-- Products (Google Merchant RSS): https://next-look-brands-7da3c944.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

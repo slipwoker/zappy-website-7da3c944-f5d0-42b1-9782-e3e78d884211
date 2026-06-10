@@ -2,13 +2,13 @@
 
 צור לי אתר אונליין אשלח לך עכשיו תמונות לוגו של האתר וכו
 
-Source: https://next-look-brands-7da3c944.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את האופנה בת הקיימא שתשנה לך את הלוק — Next Look Brands
 
-URL: https://next-look-brands-7da3c944.zappy5.app
+URL: https://example.com
 Description: ברוכה הבאה לעולם של אופנה בת קיימא לנשים שלא מתפשרת על סטייל. גלי בגדים טרנדיים אונליין ישראל שמחכים רק לך. כנסי עכשיו והתחילי להתאהב מחדש במלתחה שלך!
 
 גלי את האופנה בת הקיימא שתשנה לך את הלוק — Next Look Brands
@@ -447,7 +447,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## הסיפור מאחורי הסטייל המודע שלך — Next Look Brands
 
-URL: https://next-look-brands-7da3c944.zappy5.app/about
+URL: https://example.com/about
 Description: הכירי את החזון שמאחורי Next Look Brands: להביא אלייך אופנה בת קיימא לנשים שמשלבת יופי, איכות ואחריות. גלי מי אנחנו ולמה כל פריט הוא הצהרה. הצטרפי למהפכת הסטייל עכשיו!
 
 הסיפור מאחורי הסטייל המודע שלך — Next Look Brands
@@ -867,7 +867,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## הקולקציות שיגרמו לך להתאהב בכל פעם מחדש — Next Look Brands
 
-URL: https://next-look-brands-7da3c944.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: צללי לגלריית האופנה בת הקיימא שלנו ומצאי השראה אינסופית. דפדפי בין בגדים טרנדיים אונליין ישראל שיהפכו כל יום לתצוגת אופנה. לכי על הלוק המושלם — כנסי עכשיו!
 
 הקולקציות שיגרמו לך להתאהב בכל פעם מחדש — Next Look Brands
@@ -1316,7 +1316,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## בואי נדבר אופנה — Next Look Brands
 
-URL: https://next-look-brands-7da3c944.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על הפריט הבא שלך? רוצה לשמוע עוד על אופנה בת קיימא לנשים? צרי קשר עכשיו עם Next Look Brands וקבלי מענה אישי ומהיר. אנחנו כאן כדי להלביש את החלומות שלך — כתבי לנו עוד היום!
 
 בואי נדבר אופנה — Next Look Brands
@@ -1720,7 +1720,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## מוצרים
 
-URL: https://next-look-brands-7da3c944.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Next Look Brands
 
 מוצרים - Next Look Brands
@@ -1972,7 +1972,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## עגלת קניות
 
-URL: https://next-look-brands-7da3c944.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Next Look Brands
@@ -2200,7 +2200,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## תשלום
 
-URL: https://next-look-brands-7da3c944.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Next Look Brands
@@ -2614,7 +2614,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## התחברות
 
-URL: https://next-look-brands-7da3c944.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Next Look Brands
@@ -2849,7 +2849,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## החשבון שלי
 
-URL: https://next-look-brands-7da3c944.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Next Look Brands
@@ -3239,7 +3239,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## ההזמנה התקבלה!
 
-URL: https://next-look-brands-7da3c944.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Next Look Brands
@@ -3491,7 +3491,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## מדיניות החזרות
 
-URL: https://next-look-brands-7da3c944.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Next Look Brands
@@ -3772,7 +3772,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## פרטי המוצר
 
-URL: https://next-look-brands-7da3c944.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Next Look Brands
 
 פרטי המוצר - Next Look Brands
@@ -4002,7 +4002,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## מוצרים
 
-URL: https://next-look-brands-7da3c944.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Next Look Brands
 
 מוצרים - Next Look Brands
@@ -4256,7 +4256,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## מדיניות פרטיות
 
-URL: https://next-look-brands-7da3c944.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4529,7 +4529,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## הצהרת נגישות
 
-URL: https://next-look-brands-7da3c944.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4811,7 +4811,7 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 ## תנאי שימוש
 
-URL: https://next-look-brands-7da3c944.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
