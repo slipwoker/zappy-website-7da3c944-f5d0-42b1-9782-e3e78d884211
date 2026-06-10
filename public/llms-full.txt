@@ -316,9 +316,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -736,9 +736,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -1185,9 +1185,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -1395,7 +1395,7 @@ Next Look Brands נולדה מתוך תשוקה לאופנה עכשווית שמ
 
 מעדיפים לדבר? חייגו אלינו. אנחנו זמינים בימים א'-ה' בין השעות 09:00-18:00. נשמח לשמוע אתכם.
 
-[business_phone]
+0526858393
 
 
 
@@ -1592,9 +1592,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -1817,9 +1817,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -2045,9 +2045,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -2459,9 +2459,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -2694,9 +2694,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -3084,9 +3084,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -3336,9 +3336,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -3572,10 +3572,10 @@ Next Look Brands מחויבת לשביעות רצון לקוחותיה. מדינ
 אימייל: [business_email]
 
 
-טלפון: [business_phone]
+טלפון: 0526858393
 
 
-כתובת: [business_address]
+כתובת: Harish, Israel
 
 
 
@@ -3617,9 +3617,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -3847,9 +3847,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -4101,9 +4101,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -4347,9 +4347,9 @@ Next Look Brands ("החברה", "אנו", "שלנו") מחויבת להגן על
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0526858393
 
-- כתובת: [business_address]
+- כתובת: Harish, Israel
 
 
 
@@ -4398,9 +4398,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -4628,7 +4628,7 @@ Next Look Brands מחויבת להנגיש את השירותים לכלל הצי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0526858393
 
 
 
@@ -4680,9 +4680,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
@@ -4933,9 +4933,9 @@ Next Look Brands מספקת General דרך האתר. השירותים כפופי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 0526858393
 
-- כתובת: [business_address]
+- כתובת: Harish, Israel
 
 
 
@@ -4981,9 +4981,9 @@ Next Look Brands מביאה לכם את הטרנדים החמים ביותר ב�
 
 - [business_email]
 
-- [business_phone]
+- 0526858393
 
-- [business_address]
+- Harish, Israel
 
 
 
